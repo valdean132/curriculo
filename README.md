@@ -33,5 +33,6 @@ Desenvolvedor Full-Stack com 6+ anos de experiência combinando habilidades téc
 
 ### 🔗 Acesse Currículo
 
-[valdean132.github.io/curriculo/](https://valdean132.github.io/curriculo/)
+[valdean132.github.io/curriculo/](https://valdean132.github.io/curriculo/) \
+[📎 Baixar Currículo](https://github.com/valdean132/curriculo/blob/main/curriculo_valdean_souza_atualizado.pdf)
 
